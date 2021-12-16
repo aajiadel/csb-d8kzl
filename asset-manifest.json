@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "https://aajiadel.github.io/csb-d8kzl/static/js/main.113578b0.chunk.js",
+    "main.js.map": "https://aajiadel.github.io/csb-d8kzl/static/js/main.113578b0.chunk.js.map",
+    "runtime-main.js": "https://aajiadel.github.io/csb-d8kzl/static/js/runtime-main.216d5e04.js",
+    "runtime-main.js.map": "https://aajiadel.github.io/csb-d8kzl/static/js/runtime-main.216d5e04.js.map",
+    "static/js/2.4fb3a21f.chunk.js": "https://aajiadel.github.io/csb-d8kzl/static/js/2.4fb3a21f.chunk.js",
+    "static/js/2.4fb3a21f.chunk.js.map": "https://aajiadel.github.io/csb-d8kzl/static/js/2.4fb3a21f.chunk.js.map",
+    "index.html": "https://aajiadel.github.io/csb-d8kzl/index.html",
+    "static/js/2.4fb3a21f.chunk.js.LICENSE.txt": "https://aajiadel.github.io/csb-d8kzl/static/js/2.4fb3a21f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.216d5e04.js",
+    "static/js/2.4fb3a21f.chunk.js",
+    "static/js/main.113578b0.chunk.js"
+  ]
+}
